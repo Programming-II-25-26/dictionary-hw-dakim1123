@@ -7,8 +7,8 @@ Please answer the 3 problems below. You may look things up and can use methods b
 
 2. Write a Python script to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x).
 
-  Sample Dictionary ( n = 5) :
-  Expected Output : {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
+      Input: n = 5
+      Expected Output : {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
 
 3. Write a Python script that prints all of the duplicate characters in a string.
   Problem: Given a string s, the task is to identify all characters that appear more than once and print each as a list containing the character and its count.
@@ -30,16 +30,16 @@ Please answer the 3 problems below. You may look things up and can use methods b
 
 4. Write a Python program to create a new dictionary by extracting the mentioned keys from the below dictionary.
 
-    Given dictionary:
-      sample_dict = {
-          "name": "Kelly",
-          "age": 25,
-          "salary": 8000,
-          "city": "New york"}
-    
-    Keys to extract:
-      keys = ["name", "salary"]
-    
-    Expected output:
-    {'name': 'Kelly', 'salary': 8000}
+      Given dictionary:
+        sample_dict = {
+            "name": "Kelly",
+            "age": 25,
+            "salary": 8000,
+            "city": "New york"}
+      
+      Keys to extract:
+        keys = ["name", "salary"]
+      
+      Expected output:
+      {'name': 'Kelly', 'salary': 8000}
 
